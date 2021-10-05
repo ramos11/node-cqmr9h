@@ -6,5 +6,6 @@ var x = 10 + 2 * 15;
 
 var y = (10 + 2) * 15;
 
-console.log(x, y);
+//console.log(x, y);
 
+console.log('Welcome to Mobile App Dev and JavaScript');
